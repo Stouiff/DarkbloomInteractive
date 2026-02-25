@@ -1,0 +1,4 @@
+baseURL = 'https://darkbloom-interactive.dev/'
+languageCode = 'en-us'
+title = 'Darkbloom Interactive'
+theme = 'ananke'
