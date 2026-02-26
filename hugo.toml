@@ -2,3 +2,7 @@ baseURL = 'https://darkbloom-interactive.dev/'
 languageCode = 'en-us'
 title = 'Darkbloom Interactive'
 theme = 'ananke'
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
