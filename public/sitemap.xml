@@ -5,25 +5,32 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-25T20:16:06+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/engine/</loc>
+    <lastmod>2026-02-25T20:16:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/</loc>
+    <lastmod>2026-02-25T20:16:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/argenta/</loc>
+    <lastmod>2026-02-25T20:16:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/engine/ephemere-engine/</loc>
+    <lastmod>2026-02-25T20:16:06+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-25T20:16:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/stillworld/</loc>
     <lastmod>2026-02-25T20:16:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/test/</loc>
     <lastmod>2026-02-25T20:16:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/engine/ephemere-engine/</loc>
-  </url><url>
-    <loc>http://localhost:1313/games/argenta/</loc>
-  </url><url>
-    <loc>http://localhost:1313/games/stillworld/</loc>
+    <loc>http://localhost:1313/devlogs/</loc>
   </url><url>
     <loc>http://localhost:1313/intro/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/engine/</loc>
-  </url><url>
-    <loc>http://localhost:1313/games/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

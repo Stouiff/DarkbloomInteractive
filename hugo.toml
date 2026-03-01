@@ -1,6 +1,6 @@
-baseURL = 'https://darkbloom-interactive.dev/'
+baseURL = 'https://Ephemeraint.dev/'
 languageCode = 'en-us'
-title = 'Darkbloom Interactive'
+title = 'Ephemera Interactive'
 theme = 'ananke'
 
 [caches]
